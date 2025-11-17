@@ -32,7 +32,7 @@ The workflow includes corpus preprocessing, co-occurrence matrix construction, G
 
 Complete datasets, co-occurrence matrices, embeddings, and trained GloVe model `.pkl` files for **all corpus sizes** are available here:
 
-📁 **Datasets + Co-Occurrence Matrices + Embeddings + Trained Models**
+ **Datasets + Co-Occurrence Matrices + Embeddings + Trained Models**
 [https://drive.google.com/drive/folders/1lsvSuEEIXpA1bPFba7jkiMSiSSwRPdTz?usp=drive_link](https://drive.google.com/drive/folders/1lsvSuEEIXpA1bPFba7jkiMSiSSwRPdTz?usp=drive_link)
 
 All files can be directly used for testing by setting your desired paths inside the code.
